@@ -16,13 +16,16 @@ conda install folium -c conda-forge
 If you don't have the following libraries, Anaconda installation is strongly recommended:
 
 pandas
+
 matplotlib
+
 seaborn
 
 
 # Data
 
 I got the data from Kaggle, which was updated 6 months ago. Admittedly, the data could have been more recent, but given the recent Covid-19 outbreak, more recent data might be skewed a bit from the 'normal' times.
+
 https://www.kaggle.com/airbnb/boston
 
 
